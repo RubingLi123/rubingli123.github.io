@@ -51,8 +51,8 @@ atom_feed:
 # The author sidebar
 author:
   name   : *name
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Third-year Ph.D student in Information Systems at NYU Stern"
+  avatar : "/assets/images/headshotphoto.jpg"
+  bio    : "Ph.D candidate in Information Systems at NYU Stern"
   location : "New York, NY, USA"
   email : "rl4229@stern.nyu.edu"
   linkedin : "rubing-li-24715a130"
