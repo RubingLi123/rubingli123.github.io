@@ -39,3 +39,16 @@
     }
   }
 }
+
+// set font size in posts
+.page__content {
+
+  h2 {
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+  }
+
+  p, li, dl {
+    font-size: 0.9em;
+  }
+
