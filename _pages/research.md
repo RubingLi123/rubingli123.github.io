@@ -16,9 +16,11 @@ classes: wide
 
 ### Project-in-progress
 * Predicting Consumer In-Store Purchase Using Real-Time Retail Video Analytics. (With Anindya Ghose, Kaiquan Xu and Beibei Li) 
+<details open>
+  <summary>[Click to see abstract]</summary>
+  The proliferation of video data in retail marketing brings opportunities for researchers to study customer behavior with video analytical tools. The existing methods that researchers used for extracting information from video are not scalable nor automatic, and the emotional response of customers are not recorded properly from video data. Our study demonstrates how video can be used to understand customer behavior of multiple dimensions including emotional responses on a scalable basis. We extracted features on the customer demographics, appearance, emotion, social and contextual dimensions of customer behavior from the video with state-of-the-art computer vision techniques. Combining video and transaction data, we proposed a novel framework using machine learning and deep learning models to analyze retail video content and predict consumer purchase decision. Our findings complement the emerging literature that examines customer behavior by incorporating video data into analysis, reveal multi-dimensional drivers of purchase decision in a retail setting, and provide an implementable video analytics tool for marketers and practitioners. 
+</details>
 
-<ins>[Abstract]</ins>  The proliferation of video data in retail marketing brings opportunities for researchers to study customer behavior with video analytical tools. The existing methods that researchers used for extracting information from video are not scalable nor automatic, and the emotional response of customers are not recorded properly from video data. Our study demonstrates how video can be used to understand customer behavior of multiple dimensions including emotional responses on a scalable basis. We extracted features on the customer demographics, appearance, emotion, and contextual dimensions of customer behavior from the video with state-of-the-art computer vision techniques. Combining video and transaction data, we proposed a novel framework using machine learning and deep learning models to analyze retail video content and predict consumer purchase decision. Our findings complement the emerging literature that examines customer behavior by incorporating video data into analysis, reveal multi-dimensional drivers of purchase decision in a retail setting, and provide an implementable video analytics tool for marketers and practitioners. 
-{: .small}
 <br>
 
 Presented at
