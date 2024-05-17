@@ -51,7 +51,7 @@ atom_feed:
 # The author sidebar
 author:
   name   : *name
-  avatar : "/assets/images/headshotphoto.jpg"
+  avatar : "/assets/images/Rubing_headshot.JPG"
   bio    : "Ph.D candidate in Information Systems at NYU Stern"
   location : "New York, NY, USA"
   email : "rl4229@stern.nyu.edu"
