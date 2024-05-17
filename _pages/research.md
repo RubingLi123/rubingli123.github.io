@@ -6,15 +6,14 @@ classes: wide
 ---
 
 ### Research Interests
-
-#### Substantive
-- Sustainability, digital platform, video content mining
-{: .small}
-#### Methodology
-- Structural modeling, causal inference, deep learning, NLP, non-parametric Bayesian.
+- (Substantive) Two-sided digital platform, Consumer targeting, Sustainability
+- (Methodology) Empirical industrial organization, Deep learning, Natural language processing, Experiment design.
 {: .small}
 
-### Working Papers
+### Ongoing Research (under construction)
+
+<!---              
+
 Predicting Consumer In-Store Purchase Using Real-Time Retail Video Analytics. (With Anindya Ghose, Kaiquan Xu and Beibei Li) 
 <details open>
   <summary>[Click to see abstract]</summary>
@@ -59,5 +58,5 @@ Measuring Self-Disclosure Across Different Social Media Sites. (With Joao Sedoc)
 <br>
 
 
-
+ -->
 
