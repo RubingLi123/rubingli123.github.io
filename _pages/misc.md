@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-When I am not working on my research, I enjoy running marathon, snowboarding, playing the violin, traveling and writing.
+When I am not working on my research, I write, occasinally run marathons, go snowboarding and play the violin.
 
 <!---        
 <figure class="half">
