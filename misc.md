@@ -7,8 +7,7 @@ title: Misc
 /* Container for the entire page */
 .misc-container {
     display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 20px;
     margin-top: 20px;
 }
@@ -17,11 +16,11 @@ title: Misc
 .misc-section {
     display: flex;
     flex-direction: row;
-    width: 30%; /* Adjust width to fit three sections horizontally */
     background-color: #f9f9f9;
     padding: 10px;
     border-radius: 8px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    align-items: center;
 }
 
 /* Styling for the image */
@@ -41,11 +40,11 @@ title: Misc
 <div class="misc-container">
     <!-- Section 1 -->
     <div class="misc-section">
-        <img class="misc-image" src="static/img/marathon.PNG" alt="Photo 1">
+        <img class="misc-image" src="/static/img/marathon.PNG" alt="Photo 1">
         <div class="misc-text">
             <h3>Section 1 Title</h3>
             <p>
-                My first New York City Full Marathon.
+                My First New York City Full Marathon.
             </p>
         </div>
     </div>

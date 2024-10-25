@@ -8,12 +8,20 @@ title: Teaching
 .abstract-link {
     color: #007BFF;
     cursor: pointer;
-    text-decoration: underline;
+    text-decoration: none;
     font-size: 0.9em;
+    display: flex;
+    align-items: center;
 }
 
 .abstract-link:hover {
     color: #0056b3;
+}
+
+/* Triangle Icon Styling */
+.triangle {
+    margin-right: 5px;
+    transition: transform 0.3s ease;
 }
 
 /* Abstract Content Styling */
@@ -29,15 +37,16 @@ title: Teaching
 </style>
 
 Prior teaching experiences:
-- Instructor, Information Technology in Business and Society (Undergrad), 2024 Summer, New York University
+- Instructor, Information Technology in Business and Society (Undergrad), 2024 Summer, New York University 
 *Student Rating: 5.0/5.0*
-
-<span class="abstract-link" onclick="toggleAbstract('abstract1')">Student Reviews</span>
-<div id="abstract1" class="abstract-content"> 
+<span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
+    <span class="triangle">▼</span> Student Reviews
+</span>
+<div id="abstract1" class="abstract-content">
    "thank you for wanting us to do our best/thrive." 
    "This class was really great, I enjoyed the material and classwork." 
    "instructor is very helpful in connecting students to outside resources, very flexible on course materials, very nice person and the course was articulated very well." 
-   "nice professor, quick email replies, good flexible course materials, very nice experience." 
+   "nice professor, quick email replies, good flexible course materials, very nice experience."
 </div>
 - Teaching Fellow, Network Analytics (MBA), 2023&2024 Fall, New York University 
 - Teaching Fellow, Platform Strategy in Fintech (MBA), 2023&2024 Fall, New York University 
