@@ -25,9 +25,9 @@ title: Misc
 
 /* Styling for the image */
 .misc-image {
-    max-width: 100px;
-    margin-right: 15px;
-    border-radius: 5px;
+    max-width: 200px;
+    margin-right: 20px;
+    border-radius: 8px;
 }
 
 /* Styling for the text */
