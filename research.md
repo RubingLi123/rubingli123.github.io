@@ -38,9 +38,7 @@ title: Research
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
 **Rubing Li**, Arun Sundararajan  [Archive](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}  
-
-*ICIS Best Paper Finalist*  
-
+- *ICIS Best Paper Finalist*  
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -50,7 +48,6 @@ title: Research
 
 **Visible Localized Climate Change Events Alter Sustainable Consumption Behaviors**  
 **Rubing Li**, Andy Ruben, Arun Sundararajan  [SSRN](""){: .btn}  
-
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -62,9 +59,7 @@ As concerns about environmental and climate change rise, consumers increasingly 
 
 **Predicting Consumer In-Store Purchase Using Real-Time Retail Video Analytics**  
 **Rubing Li**, Anindya Ghose, Kaiquan Xu, Beibei Li  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
-
-*ICIS Nunamaker-Chen Best Impact Paper Award*  
-
+- *ICIS Nunamaker-Chen Best Impact Paper Award*  
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -76,8 +71,6 @@ The proliferation of cameras and their video data in retail marketing presents n
 
 **Hidden Fault Lines in GPT-4 to o1: Switching LLMs Can Induce Dramatic Declines in Trusting Behavior**  
 **Rubing Li**, João Sedoc, Arun Sundararajan   [Archive](""){: .btn}  
-
-
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
 </span>
