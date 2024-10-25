@@ -37,7 +37,8 @@ title: Research
 </style>
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
-**Rubing Li**, Arun Sundararajan  
+**Rubing Li**, Arun Sundararajan  [Archive](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}  
+
 *ICIS Best Paper Finalist*  
 
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
@@ -47,11 +48,8 @@ title: Research
    The emergence of the branded recommerce channel — digitally enabled and branded marketplaces that facilitate purchasing pre-owned items directly from a manufacturer’s e-commerce site — leads to new variants of classic IS and economic questions relating to secondary markets. Such branded recommerce is increasingly platform-enabled, creating opportunities for greater sustainability and stronger brand experience control but posing a greater risk of cannibalization of the sales of new items. We model the effects that the sales of pre-owned items have on market segmentation and product durability choices for a monopolist facing heterogeneous customers, contrasting outcomes when the trade of pre-owned goods takes place through a third-party marketplace with outcomes under branded recommerce. We show that the direct revenue benefits of branded recommerce are not their primary source of value to the monopolist, and rather, there are three indirect effects that alter profits and sustainability. Product durability increases, a seller finds it optimal to forgo marketplace fees altogether, and there are greater seller incentives to lower the quality uncertainty associated with pre-owned items. We establish these results for a simple two-period model as well as developing a new infinite horizon model with overlapping generations. Our paper sheds new insight into this emerging digital channel phenomenon, underscoring the importance of recommerce platforms in aligning seller profits with sustainability goals.
 </div>
 
-[Archive](https://arxiv.org/abs/2405.09023){: .btn}
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}  
-
 **Visible Localized Climate Change Events Alter Sustainable Consumption Behaviors**  
-**Rubing Li**, Andy Ruben, Arun Sundararajan  
+**Rubing Li**, Andy Ruben, Arun Sundararajan  [SSRN](""){: .btn}  
 
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
@@ -62,10 +60,9 @@ As concerns about environmental and climate change rise, consumers increasingly 
 
 </div>
 
-[SSRN](""){: .btn}  
-
 **Predicting Consumer In-Store Purchase Using Real-Time Retail Video Analytics**  
-**Rubing Li**, Anindya Ghose, Kaiquan Xu, Beibei Li  
+**Rubing Li**, Anindya Ghose, Kaiquan Xu, Beibei Li  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
+
 *ICIS Nunamaker-Chen Best Impact Paper Award*  
 
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
@@ -77,11 +74,8 @@ The proliferation of cameras and their video data in retail marketing presents n
 
 </div>
 
-
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
-
 **Hidden Fault Lines in GPT-4 to o1: Switching LLMs Can Induce Dramatic Declines in Trusting Behavior**  
-**Rubing Li**, João Sedoc, Arun Sundararajan  
+**Rubing Li**, João Sedoc, Arun Sundararajan   [Archive](""){: .btn}  
 
 
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
@@ -93,14 +87,8 @@ Popular large language models (LLMs) like GPT, Gemini, and Claude are updated an
 
 </div>
 
-
-[Archive](""){: .btn}  
-
 **Common law annotations: Investigating the stability of dialog system output annotations**  
-Seunggun Lee, Alexandra DeLucia, Nikita Nangia, Praneeth Ganedi, Ryan Guan, **Rubing Li**, Britney Ngaw, Aditya Singhal, Shalaka Vaidya, Zijun Yuan, Lining Zhang, João Sedoc  
-[Paper](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}  
-
-
+Seunggun Lee, Alexandra DeLucia, Nikita Nangia, Praneeth Ganedi, Ryan Guan, **Rubing Li**, Britney Ngaw, Aditya Singhal, Shalaka Vaidya, Zijun Yuan, Lining Zhang, João Sedoc  [Paper](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
 
 <script>
 function toggleAbstract(id) {
