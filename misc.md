@@ -37,14 +37,16 @@ title: Misc
 }
 </style>
 
+When I’m not doing research, I like to read fictions, climb mountains, play violin, and run marathons occasionally.
+
 <div class="misc-container">
     <!-- Section 1 -->
     <div class="misc-section">
         <img class="misc-image" src="/static/img/marathon.PNG" alt="Photo 1">
         <div class="misc-text">
-            <h3>Section 1 Title</h3>
+            <h3> My First New York City Full Marathon.</h3>
             <p>
-                My First New York City Full Marathon.
+            The most challenging section of the route is the Queensboro Bridge at mile 19, featuring a 5-mile uphill climb.
             </p>
         </div>
     </div>
