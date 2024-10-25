@@ -29,14 +29,14 @@ title: Teaching
 </style>
 
 Prior teaching experiences:
-- Primary Lecturer, Info Tech in Business (Undergrad), 2024 Summer, New York University 
+- Primary Lecturer, Info Tech in Business (Undergrad), 2024 Summer, New York University </br> 
   *Student Rating: 5.0/5.0*
   <span class="abstract-link" onclick="toggleAbstract('abstract1')">Student Reviews</span>
-<div id="abstract1" class="abstract-content">
-   "thank you for wanting us to do our best/thrive."
-   "This class was really great, I enjoyed the material and classwork."
-   "instructor is very helpful in connecting students to outside resources, very flexible on course materials, very nice person and the course was articulated very well."
-   "nice professor, quick email replies, good flexible course materials, very nice experience."
+<div id="abstract1" class="abstract-content"> 
+   "thank you for wanting us to do our best/thrive." 
+   "This class was really great, I enjoyed the material and classwork." 
+   "instructor is very helpful in connecting students to outside resources, very flexible on course materials, very nice person and the course was articulated very well." 
+   "nice professor, quick email replies, good flexible course materials, very nice experience." 
 </div>
 
 - Teaching Fellow, Data Science for Business (MBA), 2023 Spring, New York University 
