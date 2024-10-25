@@ -29,8 +29,10 @@ title: Teaching
 </style>
 
 Prior teaching experiences:
-- Instructor, Information Technology in Business and Society (Undergrad), 2024 Summer, New York University </br> 
+- Instructor, Information Technology in Business and Society (Undergrad), 2024 Summer, New York University
+
   (*Student Rating: 5.0/5.0*)
+  
   <span class="abstract-link" onclick="toggleAbstract('abstract1')">Student Reviews</span>
 <div id="abstract1" class="abstract-content"> 
    "thank you for wanting us to do our best/thrive." 
