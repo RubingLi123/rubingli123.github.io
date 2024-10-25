@@ -29,8 +29,8 @@ title: Teaching
 </style>
 
 Prior teaching experiences:
-- Primary Lecturer, Info Tech in Business (Undergrad), 2024 Summer, New York University </br> 
-  *Student Rating: 5.0/5.0*
+- Instructor, Information Technology in Business and Society (Undergrad), 2024 Summer, New York University </br> 
+  (*Student Rating: 5.0/5.0*)
   <span class="abstract-link" onclick="toggleAbstract('abstract1')">Student Reviews</span>
 <div id="abstract1" class="abstract-content"> 
    "thank you for wanting us to do our best/thrive." 
@@ -38,11 +38,12 @@ Prior teaching experiences:
    "instructor is very helpful in connecting students to outside resources, very flexible on course materials, very nice person and the course was articulated very well." 
    "nice professor, quick email replies, good flexible course materials, very nice experience." 
 </div>
-
+- Teaching Fellow, Network Analytics (MBA), 2023&2024 Fall, New York University 
+- Teaching Fellow, Platform Strategy in Fintech (MBA), 2023&2024 Fall, New York University 
 - Teaching Fellow, Data Science for Business (MBA), 2023 Spring, New York University 
 [Course Repo](https://github.com/RubingLi123/foster_2023spring){: .btn} 
 - Teaching Fellow, Digital Marketing Analytics (EMBA), 2023 Spring, New York University 
-- Secondary Lecturer for STAT 5201 Statistical Analysis, University of Minnesota - Twin Cities (Student rating: 4.8/5.0) 
+- Secondary Lecturer for STAT 5201 Statistical Analysis (Grad), University of Minnesota - Twin Cities (*Student rating: 4.8/5.0*) 
 - Certified Math Tutor 
 
 
