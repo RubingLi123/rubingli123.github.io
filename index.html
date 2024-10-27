@@ -9,7 +9,7 @@ use-site-title: true
 /* Container styling to align photo and text side by side */
 .profile-container {
     display: flex;
-    align-items: flex-start;
+    align-items: flex-end; /* Aligns the bottom of the image with the bottom of the text */
     gap: 20px;
     margin-bottom: 10px;
 }
@@ -20,11 +20,16 @@ use-site-title: true
     border-radius: 8px;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
 }
+
+/* Optional: Adjust text to add vertical space if needed */
+.profile-text {
+    margin-top: auto; /* Aligns the text to the top if needed */
+}
 </style>
 
 <div class="profile-container">
     <img class="profile-photo" src="https://rubingli123.github.io/static/img/rubing_headshot.JPG" alt="Rubing Li">
-    <div>
+    <div class="profile-text">
         <p>I am a PhD student at <a href="https://www.nyu.edu/">New York University</a>, working in the <a
             href="https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept/">Department of Technology, Operations, and Statistics (TOPS)</a>, advised by Prof. <a
             href="https://www.stern.nyu.edu/faculty/bio/arun-sundararajan">Arun Sundararajan</a>. My research interests lie in the economic and technological aspects of information systems. I study emergent phenomena on two-sided digital platforms that uphold broader goals of society, with a focus on sustainability-driven innovations and information transparency. I also leverage design principles to build systems and frameworks to enhance trust and decision-making for business.</p>
