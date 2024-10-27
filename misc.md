@@ -37,38 +37,38 @@ title: Misc
 }
 </style>
 
-When I’m not doing research, I like to read fictions, climb mountains, play violin, and run marathons occasionally.
+When I’m not doing research, I like to read fictions, climb mountains, play the violin, and run marathons occasionally.
 
 <div class="misc-container">
     <!-- Section 1 -->
     <div class="misc-section">
         <img class="misc-image" src="/static/img/marathon.PNG" alt="Photo 1">
         <div class="misc-text">
-            <h3> My First New York City Full Marathon.</h3>
+            <h3>My First New York City Full Marathon</h3>
             <p>
-            The most challenging section of the route is the Queensboro Bridge at mile 19, featuring a 5-mile uphill climb.
+                The most challenging section of the route is the Queensboro Bridge at mile 19, featuring a 5-mile uphill climb.
             </p>
         </div>
     </div>
 
     <!-- Section 2 -->
     <div class="misc-section">
-        <img class="misc-image" src="path/to/photo2.jpg" alt="Photo 2">
+        <img class="misc-image" src="/static/img/trove2.jpeg" alt="Photo 2">
         <div class="misc-text">
-            <h3>Section 2 Title</h3>
+            <h3>Recommerce Warehouse Visit</h3>
             <p>
-                Description or text content for the second section. This is a great place to provide additional information.
+                I recently visited one of the largest recommerce warehouses in San Francisco and was amazed to see the intricate processes behind recycling pre-owned items. Click here to see more photos behind the scene!
             </p>
         </div>
     </div>
 
     <!-- Section 3 -->
     <div class="misc-section">
-        <img class="misc-image" src="path/to/photo3.jpg" alt="Photo 3">
+        <img class="misc-image" src="/static/img/music.jpg" alt="Photo 3">
         <div class="misc-text">
             <h3>Section 3 Title</h3>
             <p>
-                Description or text content for the third section. Feel free to modify this text to fit your needs.
+              I am a fan of classical music, appreciating each piece as a delicately crafted novel with a rich, layered structure. Last year, I attended a Rachmaninoff marathon featuring all five piano concertos in a single program!
             </p>
         </div>
     </div>
