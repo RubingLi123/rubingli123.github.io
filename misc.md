@@ -50,7 +50,6 @@ When I’m not doing research, I like to read fictions, climb mountains, play th
             </p>
         </div>
     </div>
-
     <!-- Section 2 -->
     <div class="misc-section">
         <img class="misc-image" src="/static/img/trove2.jpeg" alt="Photo 2">
@@ -61,14 +60,13 @@ When I’m not doing research, I like to read fictions, climb mountains, play th
             </p>
         </div>
     </div>
-
     <!-- Section 3 -->
     <div class="misc-section">
         <img class="misc-image" src="/static/img/music.jpg" alt="Photo 3">
         <div class="misc-text">
-            <h3>Section 3 Title</h3>
+            <h3>Classical Music Enthusiast</h3>
             <p>
-              I am a fan of classical music, appreciating each piece as a delicately crafted novel with a rich, layered structure. Last year, I attended a Rachmaninoff marathon featuring all five piano concertos in a single program!
+                I am a fan of classical music, appreciating each piece as a delicately crafted novel with a rich, layered structure. Last year, I attended a Rachmaninoff marathon featuring all five piano concertos in a single program!
             </p>
         </div>
     </div>
