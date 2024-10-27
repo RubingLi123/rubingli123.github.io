@@ -54,7 +54,7 @@ When I’m not doing research, I like to read fictions, climb mountains, play th
     <div class="misc-section">
         <img class="misc-image" src="/static/img/trove2.jpeg" alt="Photo 2">
         <div class="misc-text">
-            <h3>Recommerce Warehouse Visit</h3>
+            <h3>My Recommerce Warehouse Visit</h3>
             <p>
                 I recently visited one of the largest recommerce warehouses in San Francisco and was amazed to see the intricate processes behind recycling pre-owned items. Click here to see more photos behind the scene!
             </p>
@@ -64,9 +64,9 @@ When I’m not doing research, I like to read fictions, climb mountains, play th
     <div class="misc-section">
         <img class="misc-image" src="/static/img/music.jpg" alt="Photo 3">
         <div class="misc-text">
-            <h3>Classical Music Enthusiast</h3>
+            <h3>My Classical Music Experience in NYC</h3>
             <p>
-                I am a fan of classical music, appreciating each piece as a delicately crafted novel with a rich, layered structure. Last year, I attended a Rachmaninoff marathon featuring all five piano concertos in a single program!
+                I am a fan of classical music and a classically trained violinist, appreciating each piece as a delicately crafted novel with a rich, layered structure. Last year, I had the unforgettable experience of attending a Rachmaninoff marathon, where Yuja Wang performed all five piano concertos in a single program!
             </p>
         </div>
     </div>
