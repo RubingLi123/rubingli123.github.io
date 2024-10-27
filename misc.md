@@ -37,8 +37,6 @@ title: Misc
 }
 </style>
 
-When I’m not doing research, I like to read fictions, climb mountains, play the violin, and run marathons occasionally.
-
 <div class="misc-container">
     <!-- Section 1 -->
     <div class="misc-section">
