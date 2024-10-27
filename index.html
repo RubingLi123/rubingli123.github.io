@@ -10,21 +10,22 @@ use-site-title: true
 .profile-container {
     display: flex;
     align-items: flex-end;
-    gap: 50px;
+    gap: 30px;
     margin-bottom: 20px;
 }
 
 /* Profile photo styling */
 .profile-photo {
-    max-width: 250px; /* Adjust as needed */
+    max-width: 220px; /* Adjust as needed */
     border-radius: 8px;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
-    margin-top: -200px;
+    margin-top: -50px;
 }
 </style>
 
 <div class="profile-container">
-    <img class="profile-photo" src="{{ site.baseurl }}/static/img/rubing_headshot.JPG" alt="Rubing Li">
+    <img class="profile-photo" src="{{ site.baseurl }}/static/img/rubing_headshot.JPG" alt="Rubing Li" style="position: relative; top: -50px;">
+    
     <div>
         <p>I am a PhD student at <a href="https://www.nyu.edu/">New York University</a>, working in the <a
             href="https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept/">Department of Technology, Operations, and Statistics (TOPS)</a>, advised by Prof. <a
