@@ -38,7 +38,7 @@ title: Research
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
 **Rubing Li**, Arun Sundararajan  [Archive](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}  
-*ICIS Best Paper Finalist*  
+*2023 ICIS Best Paper Finalist*  
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -59,7 +59,7 @@ As concerns about environmental and climate change rise, consumers increasingly 
 
 **Predicting Consumer In-Store Purchase Using Real-Time Retail Video Analytics**  
 **Rubing Li**, Anindya Ghose, Kaiquan Xu, Beibei Li  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
-*ICIS Nunamaker-Chen Best Impact Paper Award*  
+*2022 ICIS Nunamaker-Chen Best Impact Paper Award*  
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
 </span>
