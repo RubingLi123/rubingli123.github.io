@@ -58,7 +58,7 @@ As concerns about environmental and climate change rise, consumers increasingly 
 </div>
 
 **Predicting Consumer In-Store Purchase Using Real-Time Retail Video Analytics**  
-**Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Kaiquan Xu, Beibei Li  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
+**Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li ,Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
 *2022 ICIS Nunamaker-Chen Best Impact Paper Award*  
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
