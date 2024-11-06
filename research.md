@@ -58,7 +58,7 @@ As concerns about environmental and climate change rise, consumers increasingly 
 </div>
 
 **Predicting Consumer In-Store Purchase Using Real-Time Retail Video Analytics**  
-**Rubing Li**^†^, Wen Wang^†^, Anindya Ghose, Kaiquan Xu, Beibei Li (<sup>†</sup> Indicates shared authorship) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
+**Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Kaiquan Xu, Beibei Li  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
 *2022 ICIS Nunamaker-Chen Best Impact Paper Award*  
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
@@ -82,6 +82,10 @@ Popular large language models (LLMs) like GPT, Gemini, and Claude are updated an
 
 **Common law annotations: Investigating the stability of dialog system output annotations**  
 Seunggun Lee, Alexandra DeLucia, Nikita Nangia, Praneeth Ganedi, Ryan Guan, **Rubing Li**, Britney Ngaw, Aditya Singhal, Shalaka Vaidya, Zijun Yuan, Lining Zhang, João Sedoc  [Paper](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
+
+</br>
+
+(<sup>†</sup> Indicates shared authorship)
 
 <script>
 function toggleAbstract(id) {
