@@ -83,9 +83,9 @@ Popular large language models (LLMs) like GPT, Gemini, and Claude are updated an
 **Common law annotations: Investigating the stability of dialog system output annotations**  
 Seunggun Lee, Alexandra DeLucia, Nikita Nangia, Praneeth Ganedi, Ryan Guan, **Rubing Li**, Britney Ngaw, Aditya Singhal, Shalaka Vaidya, Zijun Yuan, Lining Zhang, João Sedoc  [Paper](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
 
-</br>
+<br>
+<span style="font-size: 0.75em;">(<sup>†</sup> Indicates shared authorship)</span>
 
-(<sup>†</sup> Indicates shared authorship)
 
 <script>
 function toggleAbstract(id) {
