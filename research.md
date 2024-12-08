@@ -47,7 +47,7 @@ title: Research
 </div>
 
 **Visible Localized Climate Change Events Alter Sustainable Consumption Behaviors**  
-**Rubing Li**, Andy Ruben, Arun Sundararajan  [SSRN](""){: .btn}  
+**Rubing Li**, Andy Ruben, Arun Sundararajan  ##SSRN(""){: .btn}  
 <span class="abstract-link" onclick="toggleAbstract('abstract2', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -70,7 +70,7 @@ This study introduces a novel, theory-driven video analytics framework to predic
 </div>
 
 **Hidden Fault Lines in GPT-4 to o1: Switching LLMs Can Induce Dramatic Declines in Trusting Behavior**  
-**Rubing Li**, João Sedoc, Arun Sundararajan   [Archive](""){: .btn}  
+**Rubing Li**, João Sedoc, Arun Sundararajan   ##Archive {: .btn}  
 <span class="abstract-link" onclick="toggleAbstract('abstract4', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -81,7 +81,7 @@ Popular large language models (LLMs) like GPT, Gemini, and Claude are updated an
 </div>
 
 **Common law annotations: Investigating the stability of dialog system output annotations**  
-Seunggun Lee, Alexandra DeLucia, Nikita Nangia, Praneeth Ganedi, Ryan Guan, **Rubing Li**, Britney Ngaw, Aditya Singhal, Shalaka Vaidya, Zijun Yuan, Lining Zhang, João Sedoc  [Paper](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
+Seunggun Lee, Alexandra DeLucia, Nikita Nangia, Praneeth Ganedi, Ryan Guan, **Rubing Li**, Britney Ngaw, Aditya Singhal, Shalaka Vaidya, Zijun Yuan, Lining Zhang, João Sedoc  [ACL Version](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
 
 <br>
 <span style="font-size: 0.75em;">(<sup>†</sup> Indicates shared authorship)</span>
