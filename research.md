@@ -47,7 +47,7 @@ title: Research
 </div>
 
 **Visible Localized Climate Change Events Alter Sustainable Consumption Behaviors**  
-**Rubing Li**, Andy Ruben, Arun Sundararajan  ##SSRN(""){: .btn}  
+**Rubing Li**, Andy Ruben, Arun Sundararajan   ##SSRN
 <span class="abstract-link" onclick="toggleAbstract('abstract2', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -70,7 +70,7 @@ This study introduces a novel, theory-driven video analytics framework to predic
 </div>
 
 **Hidden Fault Lines in GPT-4 to o1: Switching LLMs Can Induce Dramatic Declines in Trusting Behavior**  
-**Rubing Li**, João Sedoc, Arun Sundararajan   ##Archive {: .btn}  
+**Rubing Li**, João Sedoc, Arun Sundararajan   ##Archive  
 <span class="abstract-link" onclick="toggleAbstract('abstract4', this)">
     <span class="triangle">▼</span> Abstract
 </span>
