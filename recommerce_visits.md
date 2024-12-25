@@ -1,8 +1,11 @@
 ---
 layout: page
-title: In fall 2023, I visited one of the largest recommerce warehouse sites in San Francisco. Here are some snapshots of my visit.
+# title: In fall 2023, I visited one of the largest recommerce warehouse sites in San Francisco. Here are some snapshots of my visit.
 permalink: /recommerce_visits/
 ---
+
+<p style="margin-top: 10px; font-size: 16px;"> In fall 2023, I visited one of the largest recommerce warehouse sites in San Francisco. Here are some snapshots of my visit.
+.</p>
 
 <div style="text-align: center; margin-bottom: 20px;">
     <img src="/static/img/overview.JPG" alt="overview" style="width: 100%; max-width: 500px; border-radius: 10px;">
