@@ -44,7 +44,7 @@ title: Misc
         <div class="misc-text">
             <h3>Running</h3>
             <p>
-            I completed my first New York City full marathon in November 2023. The most challenging section of the route was the Queensboro Bridge at mile 19, with its grueling 5-mile uphill climb—a true test for a casual runner like me. I followed a popular marathon training <a href="https://www.halhigdon.com/training/marathon-training/">program</a> , which has since inspired me to pursue more serious running.
+            I completed my first New York City full marathon in November 2023. The most challenging section of the route was the Queensboro Bridge at mile 19, with its grueling 5-mile uphill climb—a true test for a casual runner like me. I followed a popular marathon training <a href="https://www.halhigdon.com/training/marathon-training/">program</a>, which has since inspired me to pursue more serious running.
             </p>
         </div>
     </div>
