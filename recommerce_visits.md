@@ -1,6 +1,7 @@
 ---
 layout: page
 title: recommerce_visits
+permalink: /recommerce_visits/
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">
