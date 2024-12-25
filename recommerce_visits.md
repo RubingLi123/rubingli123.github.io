@@ -15,7 +15,7 @@ permalink: /recommerce_visits/
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-    <img src="/static/img/photobooth.JPG" alt="photobooth" style="width: 100%; max-width: 500px; border-radius: 10px;">
+    <img src="/static/img/photobooth.jpg" alt="photobooth" style="width: 100%; max-width: 500px; border-radius: 10px;">
     <p style="margin-top: 10px; font-size: 16px;"> Staff taking pictures of recycled items in a studio-like setting and uploading them to the systems, which then became the displayed images users see on the website.</p>
 </div>
 
