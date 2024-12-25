@@ -54,7 +54,7 @@ title: Misc
         <div class="misc-text">
             <h3>My Recommerce Warehouse Visit</h3>
             <p>
-                I recently visited one of the largest recommerce warehouses in San Francisco and was amazed to see the intricate processes behind recycling pre-owned items. Click here to see more photos behind the scene!
+                I recently visited one of the largest recommerce warehouses in San Francisco and was amazed to see the intricate processes behind recycling pre-owned items. Click <a href="https://rubingli123.github.io/recommerce_visits.md/">here</a> to see more photos behind the scene!
             </p>
         </div>
     </div>
