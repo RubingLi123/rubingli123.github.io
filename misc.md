@@ -42,9 +42,9 @@ title: Misc
     <div class="misc-section">
         <img class="misc-image" src="/static/img/marathon.PNG" alt="Photo 1">
         <div class="misc-text">
-            <h3>My First New York City Full Marathon</h3>
+            <h3>Running</h3>
             <p>
-                The most challenging section of the route is the Queensboro Bridge at mile 19, featuring a 5-mile uphill climb.
+            I completed my first New York City full marathon in November 2023. The most challenging section of the route was the Queensboro Bridge at mile 19, with its grueling 5-mile uphill climb—a true test for a casual runner like me. I followed a popular marathon training <a href="https://www.halhigdon.com/training/marathon-training/">program</a> , which has since inspired me to pursue more serious running.
             </p>
         </div>
     </div>
@@ -52,7 +52,7 @@ title: Misc
     <div class="misc-section">
         <img class="misc-image" src="/static/img/trove2.jpeg" alt="Photo 2">
         <div class="misc-text">
-            <h3>My Recommerce Warehouse Visit</h3>
+            <h3>Fieldwork</h3>
             <p>
                 I recently visited one of the largest recommerce warehouses in San Francisco and was amazed to see the intricate processes behind recycling pre-owned items. Click <a href="/recommerce_visits/">here</a> to see more photos behind the scene!
             </p>
@@ -62,7 +62,7 @@ title: Misc
     <div class="misc-section">
         <img class="misc-image" src="/static/img/music.jpg" alt="Photo 3">
         <div class="misc-text">
-            <h3>My Classical Music Experience in NYC</h3>
+            <h3>Classical Music</h3>
             <p>
                 I am a fan of classical music and a classically trained violinist, appreciating each piece as a delicately crafted novel with a rich, layered structure. Last year, I had the unforgettable experience of attending a Rachmaninoff marathon, where Yuja Wang performed all five piano concertos in a single program!
             </p>
