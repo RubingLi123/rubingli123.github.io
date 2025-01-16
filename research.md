@@ -39,6 +39,7 @@ title: Research
 
 **How  Platform Transparency Shapes Provider Choices: Evidence from A Natural Experiment**  
 **Rubing Li**, Xiao Liu, Arun Sundararajan
+
 *Working paper coming out soon*  
 
 
