@@ -65,7 +65,7 @@ As concerns about environmental and climate change rise, consumers increasingly 
 </div>
 
 **Predicting Consumer In-Store Purchase Using Real-Time Retail Video Analytics**  
-**Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li ,Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
+**Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
 *2022 ICIS Nunamaker-Chen Best Impact Paper Award*  
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
@@ -76,14 +76,14 @@ This study introduces a novel, theory-driven video analytics framework to predic
 
 </div>
 
-**Hidden Fault Lines in GPT-4 to o1: Switching LLMs Can Induce Dramatic Declines in Trusting Behavior**  
-**Rubing Li**, João Sedoc, Arun Sundararajan   ##Archive  
+**Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models**  
+**Rubing Li**, João Sedoc, Arun Sundararajan   [Archive](https://arxiv.org/pdf/2502.12825){: .btn}  
 <span class="abstract-link" onclick="toggleAbstract('abstract4', this)">
     <span class="triangle">▼</span> Abstract
 </span>
 <div id="abstract4" class="abstract-content">
 
-Popular large language models (LLMs) like GPT, Gemini, and Claude are updated and released with increasing frequency. These new versions typically report improved performance based on a variety of standardized benchmarks. Applications built on top of LLMs must then decide whether to take advantage of these improvements or stay with a tried-and-tested older model, a decision often taken without clarity about more subtle behavior changes that the transition may induce. Here, we report new evidence of a fairly dramatic decline in the trusting behavior of OpenAI's new o1-mini model relative to its predecessors (e.g., GPT-4o-mini model). We capture trusting behavior using the well-known ``trust game'' from behavioral economics and examine how outcomes vary as the LLM is imbued with increasingly sophisticated reasoning strategies, showing that the performance of o1-mini is consistently inferior to that of its predecessors. As LLMs form the basis for a growing number of high-stakes commercial systems, our results highlight the perils of their increasing opacity and complexity, and suggest that careful analysis of their hidden fault lines should be part of any organization's AI strategy.   
+When encountering increasingly frequent per- formance improvements or cost reductions from a new large language model (LLM), de- velopers of applications leveraging LLMs must decide whether to take advantage of these im- provements or stay with older tried-and-tested models. Low perceived switching frictions can lead to choices that do not consider more sub- tle behavior changes that the transition may induce. Our experiments use a popular game- theoretic behavioral economics model of trust to show stark differences in the trusting be- havior of OpenAI’s and DeepSeek’s models. We highlight a collapse in the economic trust behavior of the o1-mini and o3-mini models as they reconcile profit-maximizing and risk- seeking with future returns from trust, and con- trast it with DeepSeek’s more sophisticated and profitable trusting behavior that stems from an ability to incorporate deeper concepts like for- ward planning and theory-of-mind. As LLMs form the basis for high-stakes commercial sys- tems, our results highlight the perils of relying on LLM performance benchmarks that are too narrowly defined and suggest that careful anal- ysis of their hidden fault lines should be part of any organization’s AI strategy.
 
 </div>
 
