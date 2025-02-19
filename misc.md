@@ -68,6 +68,4 @@ title: Misc
             </p>
         </div>
     </div>
-#  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=70&t=n&d=O8suamHxmsJ0Q9xPWGTZ-axPrNLubvMXcLlaLEJQwzk&co=ffffff&ct=808080&cmo=78a2f2&cmn=f5bb64'></script>
-# 
-# </div>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=a&t=n&d=O8suamHxmsJ0Q9xPWGTZ-axPrNLubvMXcLlaLEJQwzk&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
