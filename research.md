@@ -88,7 +88,7 @@ When encountering increasingly frequent per- formance improvements or cost reduc
 </div>
 
 **Common law annotations: Investigating the stability of dialog system output annotations**  
-Seunggun Lee, Alexandra DeLucia, Nikita Nangia, Praneeth Ganedi, Ryan Guan, **Rubing Li**, Britney Ngaw, Aditya Singhal, Shalaka Vaidya, Zijun Yuan, Lining Zhang, João Sedoc  [ACL Version](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
+With Seunggun Lee, João Sedoc and nine other coauthors [ACL Version](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
 
 <br>
 <span style="font-size: 0.75em;">(<sup>†</sup> Indicates shared authorship)</span>
