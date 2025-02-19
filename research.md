@@ -87,7 +87,7 @@ When encountering increasingly frequent performance improvements or cost reducti
 
 </div>
 
-**Common law annotations: Investigating the stability of dialog system output annotations**  
+**Common Law Annotations: Investigating the Stability of Dialog System Output Annotations**  
 With Seunggun Lee, João Sedoc and nine other coauthors [ACL Version](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
 
 <br>
