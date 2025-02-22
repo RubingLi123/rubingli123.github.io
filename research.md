@@ -41,11 +41,13 @@ title: Research
 **How  Platform Transparency Shapes Provider Choices: Evidence from A Natural Experiment**  
 **Rubing Li**, Xiao Liu, Arun Sundararajan
 <br><span style="font-size: 14px;">(Work in progress)</span>
+<br><span style="font-size: 14px;">Conference Presentations: WISE 2024</span>
 
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
-**Rubing Li**, Arun Sundararajan  [Arxiv](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn} 
-<p style="font-size: 14px; margin-top: 0;"> Revise and Resubmit (2nd round), Information Systems Research</p>
+**Rubing Li**, Arun Sundararajan  [Arxiv](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}
+<br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
+<br><span style="font-size: 14px;">Conference Presentations: Marketing Science 2023, WISE 2023, IIOC 2024, INFORMS CIST 2024</span>
 *2023 ICIS Best Paper Finalist*  
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
@@ -56,7 +58,8 @@ title: Research
 
 **Predicting Consumer In-Store Purchase through Real-Time Video Analytics: An Advanced Computer Vision and Deep Learning Approach**  
 **Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
-Revise and Resubmit (2nd round), Information Systems Research
+<br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
+<br><span style="font-size: 14px;">Conference Presentations: SCECR 2021, INFORMS CIST 2021, INFORMS Data Science Workshop 2022, ICIS 2022</span>
 *2022 ICIS Nunamaker-Chen Best Impact Paper Award*  
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
@@ -67,6 +70,7 @@ This study introduces a novel, theory-driven video analytics framework to predic
 
 **Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models**  
 **Rubing Li**, João Sedoc, Arun Sundararajan   [Arxiv](https://arxiv.org/pdf/2502.12825){: .btn}  
+<br><span style="font-size: 14px;">Conference Presentations: NYU AI Symposium 2024, Yale AI/ML 2024</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract4', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -78,6 +82,7 @@ When encountering increasingly frequent performance improvements or cost reducti
 
 **Visible Localized Climate Change Events Alter Sustainable Consumption Behaviors**  
 **Rubing Li**, Andy Ruben, Arun Sundararajan   
+<br><span style="font-size: 14px;">Conference Presentations: SCECR 2024</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract2', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -89,7 +94,7 @@ As concerns about environmental and climate change rise, consumers increasingly 
 
 **Common Law Annotations: Investigating the Stability of Dialog System Output Annotations**  
 With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}<br>
-Findings of the Association for Computational Linguistics: ACL 2023
+*Findings of the Association for Computational Linguistics: ACL 2023*
 
 <br>
 <span style="font-size: 0.75em;">(<sup>†</sup> Indicates shared authorship)</span>
