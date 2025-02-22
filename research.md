@@ -40,12 +40,12 @@ title: Research
 
 **How  Platform Transparency Shapes Provider Choices: Evidence from A Natural Experiment**  
 **Rubing Li**, Xiao Liu, Arun Sundararajan
-<p style="font-size: 14px;">(Work in progress)</p>
+<p style="font-size: 14px; margin-top: 0;">(Work in progress)</p>
 
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
 **Rubing Li**, Arun Sundararajan  [Arxiv](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn} 
-<p style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</p>
+<p style="font-size: 14px; margin-top: 0;"> Revise and Resubmit (2nd round), Information Systems Research</p>
 *2023 ICIS Best Paper Finalist*  
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
