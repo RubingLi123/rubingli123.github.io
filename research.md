@@ -99,7 +99,7 @@ With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclantholo
 
 **Rarity, Trader Heterogeneity and Pricing Power in an NFT Marketplace**  
 **Rubing Li**, Arun Sundararajan   
-<br><span style="font-size: 14px;">Conference Presentations: SCECR 2022, WISE 2022</span>
+<span style="font-size: 14px;">Conference Presentations: SCECR 2022, WISE 2022</span>
 
 
 
