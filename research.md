@@ -49,7 +49,6 @@ title: Research
 <br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
 <br><span style="font-size: 14px;">Conference Presentations: Marketing Science 2023, WISE 2023, IIOC 2024, INFORMS CIST 2024</span>
 <br><span style="font-size: 14px;color:blue">2023 ICIS Best Paper Finalist </span>
-
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -59,7 +58,7 @@ title: Research
 
 **Predicting Consumer In-Store Purchase through Real-Time Video Analytics: An Advanced Computer Vision and Deep Learning Approach**  
 **Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}
-<span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
+<br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
 <br><span style="font-size: 14px;">Conference Presentations: SCECR 2021, INFORMS CIST 2021, INFORMS Data Science Workshop 2022, ICIS 2022</span>
 <span style="font-size: 14px;color:blue">2022 ICIS Nunamaker-Chen Best Impact Paper Award</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
@@ -94,11 +93,11 @@ As concerns about environmental and climate change rise, consumers increasingly 
 </div>
 
 **Common Law Annotations: Investigating the Stability of Dialog System Output Annotations**  
-With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}<br>
-*Findings of the Association for Computational Linguistics: ACL 2023*
+With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
+<br><span style="font-size: 14px;">Findings of the Association for Computational Linguistics: ACL 2023</span>
 
-<br>
-<span style="font-size: 0.75em;">(<sup>†</sup> Indicates shared authorship)</span>
+
+<br><span style="font-size: 0.75em;">(<sup>†</sup> Indicates shared authorship)</span>
 
 
 <script>
