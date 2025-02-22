@@ -48,7 +48,7 @@ title: Research
 **Rubing Li**, Arun Sundararajan  [Arxiv](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}
 <br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
 <br><span style="font-size: 14px;">Conference Presentations: Marketing Science 2023, WISE 2023, IIOC 2024, INFORMS CIST 2024</span>
-<br><span style="font-size: 14px;color:blue">2023 ICIS Best Paper Finalist </span>
+<br><span style="font-size: 14px;color:#0056b3">2023 ICIS Best Paper Finalist </span>
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -60,7 +60,7 @@ title: Research
 **Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}
 <br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
 <br><span style="font-size: 14px;">Conference Presentations: SCECR 2021, INFORMS CIST 2021, INFORMS Data Science Workshop 2022, ICIS 2022</span>
-<span style="font-size: 14px;color:blue">2022 ICIS Nunamaker-Chen Best Impact Paper Award</span>
+<span style="font-size: 14px;color:#0056b3">2022 ICIS Nunamaker-Chen Best Impact Paper Award</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
 </span>
