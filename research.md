@@ -39,12 +39,13 @@ title: Research
 
 **How  Platform Transparency Shapes Provider Choices: Evidence from A Natural Experiment**  
 **Rubing Li**, Xiao Liu, Arun Sundararajan
-
-*Working paper coming out soon*  
-
+**(Work in progress)**
+Conference Presentations: WISE 2024
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
-**Rubing Li**, Arun Sundararajan  [Archive](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}  
+**Rubing Li**, Arun Sundararajan  [Arxiv](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn} 
+Revise and Resubmit (2nd round), Information Systems Research
+Conference Presentations:  Marketing Science 2023, WISE 2023, IIOC 2024, INFORMS CIST 2024
 *2023 ICIS Best Paper Finalist*  
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
@@ -53,19 +54,10 @@ title: Research
    The emergence of the branded recommerce channel — digitally enabled and branded marketplaces that facilitate purchasing pre-owned items directly from a manufacturer’s e-commerce site — leads to new variants of classic IS and economic questions relating to secondary markets. Such branded recommerce is increasingly platform-enabled, creating opportunities for greater sustainability and stronger brand experience control but posing a greater risk of cannibalization of the sales of new items. We model the effects that the sales of pre-owned items have on market segmentation and product durability choices for a monopolist facing heterogeneous customers, contrasting outcomes when the trade of pre-owned goods takes place through a third-party marketplace with outcomes under branded recommerce. We show that the direct revenue benefits of branded recommerce are not their primary source of value to the monopolist, and rather, there are three indirect effects that alter profits and sustainability. Product durability increases, a seller finds it optimal to forgo marketplace fees altogether, and there are greater seller incentives to lower the quality uncertainty associated with pre-owned items. We establish these results for a simple two-period model as well as developing a new infinite horizon model with overlapping generations. Our paper sheds new insight into this emerging digital channel phenomenon, underscoring the importance of recommerce platforms in aligning seller profits with sustainability goals.
 </div>
 
-**Visible Localized Climate Change Events Alter Sustainable Consumption Behaviors**  
-**Rubing Li**, Andy Ruben, Arun Sundararajan   ##SSRN
-<span class="abstract-link" onclick="toggleAbstract('abstract2', this)">
-    <span class="triangle">▼</span> Abstract
-</span>
-<div id="abstract2" class="abstract-content">
-
-As concerns about environmental and climate change rise, consumers increasingly include sustainability considerations in their consumption choices. We examine whether consumers may be affected by the growing visible evidence of climate change that, rather than being distant, is geographically proximal to a consumer and has a direct effect on their lives. We focus on a single natural experiment — the “Mosquito Fire,” — the largest wildfire in California in 2022 that lasted from September 6, 2022 to October 22, 2022. We use NOAA and EPA data to determine the extent to which each zip code in California, Oregon and Washington was “treated,” that is, the extent to which a consumer might have been visibly affected by the Mosquito fire on any given day during the event window. We obtain demand data about the demand and revenue associated with purchases of pre-owned items sold by a selected set of global apparel and accessory brands from Trove, a platform that powers the “branded recommerce” sites of a range of leading brands. These data are obtained at the zipcode level for CA, OR and WA, as well as for a matched sample of control zipcodes chosen from a set of states not affected by the Mosquito Fire or any other major climate-related local event during the event window. Our results establish that consumers in zipcodes exposed to the Mosquito Fire increased their purchasing of pre-owned items by economically significant levels (ranging from 5% to 18%) following the event, and that these effects persisted in the months following the event. We rule out a number of alternative explanations, and also report on a “face validity” experiment establishing that consumers exposed to localized climate change disasters subsequently display a measurable preference for purchasing pre-owned items. 
-
-</div>
-
-**Predicting Consumer In-Store Purchase Using Real-Time Retail Video Analytics**  
+**Predicting Consumer In-Store Purchase through Real-Time Video Analytics: An Advanced Computer Vision and Deep Learning Approach**  
 **Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
+Revise and Resubmit (2nd round), Information Systems Research
+Conference Presentations:  SCECR 2021, INFORMS CIST 2021, INFORMS Data Science Workshop 2022, ICIS 2022
 *2022 ICIS Nunamaker-Chen Best Impact Paper Award*  
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
@@ -77,7 +69,9 @@ This study introduces a novel, theory-driven video analytics framework to predic
 </div>
 
 **Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models**  
-**Rubing Li**, João Sedoc, Arun Sundararajan   [Archive](https://arxiv.org/pdf/2502.12825){: .btn}  
+**Rubing Li**, João Sedoc, Arun Sundararajan   [Arxiv](https://arxiv.org/pdf/2502.12825){: .btn}  
+Conference Presentations: NYU AI Symposium 2024, Yale AI/ML 2024
+
 <span class="abstract-link" onclick="toggleAbstract('abstract4', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -87,8 +81,21 @@ When encountering increasingly frequent performance improvements or cost reducti
 
 </div>
 
+**Visible Localized Climate Change Events Alter Sustainable Consumption Behaviors**  
+**Rubing Li**, Andy Ruben, Arun Sundararajan   
+Conference Presentations:  SCECR 2024
+
+<span class="abstract-link" onclick="toggleAbstract('abstract2', this)">
+    <span class="triangle">▼</span> Abstract
+</span>
+<div id="abstract2" class="abstract-content">
+
+As concerns about environmental and climate change rise, consumers increasingly include sustainability considerations in their consumption choices. We examine whether consumers may be affected by the growing visible evidence of climate change that, rather than being distant, is geographically proximal to a consumer and has a direct effect on their lives. We focus on a single natural experiment — the “Mosquito Fire,” — the largest wildfire in California in 2022 that lasted from September 6, 2022 to October 22, 2022. We use NOAA and EPA data to determine the extent to which each zip code in California, Oregon and Washington was “treated,” that is, the extent to which a consumer might have been visibly affected by the Mosquito fire on any given day during the event window. We obtain demand data about the demand and revenue associated with purchases of pre-owned items sold by a selected set of global apparel and accessory brands from Trove, a platform that powers the “branded recommerce” sites of a range of leading brands. These data are obtained at the zipcode level for CA, OR and WA, as well as for a matched sample of control zipcodes chosen from a set of states not affected by the Mosquito Fire or any other major climate-related local event during the event window. Our results establish that consumers in zipcodes exposed to the Mosquito Fire increased their purchasing of pre-owned items by economically significant levels (ranging from 5% to 18%) following the event, and that these effects persisted in the months following the event. We rule out a number of alternative explanations, and also report on a “face validity” experiment establishing that consumers exposed to localized climate change disasters subsequently display a measurable preference for purchasing pre-owned items. 
+
+</div>
 **Common Law Annotations: Investigating the Stability of Dialog System Output Annotations**  
-With Seunggun Lee, João Sedoc and nine other coauthors [ACL Version](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
+With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
+Findings of the Association for Computational Linguistics: ACL 2023
 
 <br>
 <span style="font-size: 0.75em;">(<sup>†</sup> Indicates shared authorship)</span>

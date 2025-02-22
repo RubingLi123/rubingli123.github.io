@@ -35,6 +35,7 @@ title: Teaching
     border-radius: 5px;
 }
 </style>
+I have taught or supported a range of courses while at NYU, that span data science and machine learning, undergraduate core education, and platforms. I enjoy both enabling students to understand AI, business and economic concepts, and helping them, hands-on, to become better programmers and data scientists. 
 
 Prior teaching experiences:
 - Instructor, Information Technology in Business and Society (Undergrad), 2024 Summer, New York University 
