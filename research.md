@@ -39,13 +39,13 @@ title: Research
 
 
 **How  Platform Transparency Shapes Provider Choices: Evidence from A Natural Experiment**  
-**Rubing Li**, Xiao Liu, Arun Sundararajan
+<u>Rubing Li</u>, Xiao Liu, Arun Sundararajan
 <br><span style="font-size: 14px;">(Work in progress)</span>
 <br><span style="font-size: 14px;">Conference Presentations: WISE 2024</span>
 
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
-**Rubing Li**, Arun Sundararajan  [Arxiv](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}
+<u>Rubing Li</u>, Arun Sundararajan  [Arxiv](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}
 <br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
 <br><span style="font-size: 14px;">Conference Presentations: Marketing Science 2023, WISE 2023, IIOC 2024, INFORMS CIST 2024</span>
 <br><span style="font-size: 14px;color:#0056b3">2023 ICIS Best Paper Finalist </span>
@@ -57,7 +57,7 @@ title: Research
 </div>
 
 **Predicting Consumer In-Store Purchase through Real-Time Video Analytics: An Advanced Computer Vision and Deep Learning Approach**  
-**Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}
+<u>Rubing Li</u><sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}
 <br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
 <br><span style="font-size: 14px;">Conference Presentations: SCECR 2021, INFORMS CIST 2021, INFORMS Data Science Workshop 2022, ICIS 2022</span>
 <span style="font-size: 14px;color:#0056b3">2022 ICIS Nunamaker-Chen Best Impact Paper Award</span>
@@ -69,7 +69,7 @@ This study introduces a novel, theory-driven video analytics framework to predic
 </div>
 
 **Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models**  
-**Rubing Li**, João Sedoc, Arun Sundararajan   [Arxiv](https://arxiv.org/pdf/2502.12825){: .btn}  
+<u>Rubing Li</u>, João Sedoc, Arun Sundararajan   [Arxiv](https://arxiv.org/pdf/2502.12825){: .btn}  
 <span style="font-size: 14px;">Conference Presentations: NYU AI Symposium 2024, Yale AI/ML 2024</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract4', this)">
     <span class="triangle">▼</span> Abstract
@@ -81,7 +81,7 @@ When encountering increasingly frequent performance improvements or cost reducti
 </div>
 
 **Visible Localized Climate Change Events Alter Sustainable Consumption Behaviors**  
-**Rubing Li**, Andy Ruben, Arun Sundararajan   
+<u>Rubing Li</u>, Andy Ruben, Arun Sundararajan   
 <span style="font-size: 14px;">Conference Presentations: SCECR 2024</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract2', this)">
     <span class="triangle">▼</span> Abstract
@@ -98,7 +98,7 @@ With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclantholo
 
 
 **Rarity, Trader Heterogeneity and Pricing Power in an NFT Marketplace**  
-**Rubing Li**, Arun Sundararajan   
+<u>Rubing Li</u>, Arun Sundararajan   
 <span style="font-size: 14px;">Conference Presentations: SCECR 2022, WISE 2022</span>
 
 
