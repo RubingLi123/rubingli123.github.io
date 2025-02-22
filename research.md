@@ -88,7 +88,7 @@ As concerns about environmental and climate change rise, consumers increasingly 
 </div>
 
 **Common Law Annotations: Investigating the Stability of Dialog System Output Annotations**  
-With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
+With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}<br>
 Findings of the Association for Computational Linguistics: ACL 2023
 
 <br>
