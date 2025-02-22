@@ -48,7 +48,8 @@ title: Research
 **Rubing Li**, Arun Sundararajan  [Arxiv](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}
 <br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
 <br><span style="font-size: 14px;">Conference Presentations: Marketing Science 2023, WISE 2023, IIOC 2024, INFORMS CIST 2024</span>
-*2023 ICIS Best Paper Finalist*  
+<br><span style="font-size: 14px;color:blue">2023 ICIS Best Paper Finalist </span>
+
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -57,10 +58,10 @@ title: Research
 </div>
 
 **Predicting Consumer In-Store Purchase through Real-Time Video Analytics: An Advanced Computer Vision and Deep Learning Approach**  
-**Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}  
-<br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
+**Rubing Li**<sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}
+<span style="font-size: 14px;"> Revise and Resubmit (2nd round), Information Systems Research</span>
 <br><span style="font-size: 14px;">Conference Presentations: SCECR 2021, INFORMS CIST 2021, INFORMS Data Science Workshop 2022, ICIS 2022</span>
-*2022 ICIS Nunamaker-Chen Best Impact Paper Award*  
+<span style="font-size: 14px;color:blue">2022 ICIS Nunamaker-Chen Best Impact Paper Award</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -70,7 +71,7 @@ This study introduces a novel, theory-driven video analytics framework to predic
 
 **Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models**  
 **Rubing Li**, João Sedoc, Arun Sundararajan   [Arxiv](https://arxiv.org/pdf/2502.12825){: .btn}  
-<br><span style="font-size: 14px;">Conference Presentations: NYU AI Symposium 2024, Yale AI/ML 2024</span>
+<span style="font-size: 14px;">Conference Presentations: NYU AI Symposium 2024, Yale AI/ML 2024</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract4', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -82,7 +83,7 @@ When encountering increasingly frequent performance improvements or cost reducti
 
 **Visible Localized Climate Change Events Alter Sustainable Consumption Behaviors**  
 **Rubing Li**, Andy Ruben, Arun Sundararajan   
-<br><span style="font-size: 14px;">Conference Presentations: SCECR 2024</span>
+<span style="font-size: 14px;">Conference Presentations: SCECR 2024</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract2', this)">
     <span class="triangle">▼</span> Abstract
 </span>
