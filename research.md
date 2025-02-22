@@ -40,7 +40,7 @@ title: Research
 
 **How  Platform Transparency Shapes Provider Choices: Evidence from A Natural Experiment**  
 **Rubing Li**, Xiao Liu, Arun Sundararajan
-<p style="font-size: 14px; margin-top: 0;">(Work in progress)</p>
+<br><span style="font-size: 14px;">(Work in progress)</span>
 
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
