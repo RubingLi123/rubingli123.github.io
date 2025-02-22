@@ -97,6 +97,13 @@ With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclantholo
 <br><span style="font-size: 14px;">Findings of the Association for Computational Linguistics: ACL 2023</span>
 
 
+**Rarity, Trader Heterogeneity and Pricing Power in an NFT Marketplace**  
+**Rubing Li**, Arun Sundararajan   
+<br><span style="font-size: 14px;">Conference Presentations: SCECR 2022, WISE 2022</span>
+
+
+
+
 <br><span style="font-size: 0.75em;">(<sup>†</sup> Indicates shared authorship)</span>
 
 
