@@ -49,11 +49,11 @@ Prior teaching experiences:
    "instructor is very helpful in connecting students to outside resources, very flexible on course materials, very nice person and the course was articulated very well." 
    "nice professor, quick email replies, good flexible course materials, very nice experience."
 </div>
-- Teaching Fellow, Network Analytics (MBA), 2023&2024 Fall, New York University 
-- Teaching Fellow, Platform Strategy in Fintech (MBA), 2023&2024 Fall, New York University 
-- Teaching Fellow, Data Science for Business (MBA), 2023 Spring, New York University 
-[Course Repo](https://github.com/RubingLi123/foster_2023spring){: .btn} 
-- Teaching Fellow, Digital Marketing Analytics (EMBA), 2023 Spring, New York University 
+- Teaching Fellow, Network Analytics (MBA), 2023, 2024, New York University 
+- Teaching Fellow, Platform Strategy in Fintech (MBA), 2023, 2024, New York University 
+- Teaching Fellow, Data Science for Business (MBA), 2023, New York University 
+[Course Github Repo](https://github.com/RubingLi123/foster_2023spring){: .btn} 
+- Teaching Fellow, Digital Marketing Analytics (EMBA), 2023, New York University 
 - Secondary Lecturer for STAT 5201 Statistical Analysis (Grad), University of Minnesota - Twin Cities (*Student rating: 4.8/5.0*) 
 - Certified Math Tutor 
 
