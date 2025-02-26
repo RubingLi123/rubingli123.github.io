@@ -60,7 +60,7 @@ title: Research
 <u>Rubing Li</u><sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}
 <br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), <em>Information Systems Research</em></span>
 <br><span style="font-size: 14px;">Conference Presentations: <em>SCECR 2021, INFORMS CIST 2021, INFORMS Data Science Workshop 2022, ICIS 2022</em></span>
-<span style="font-size: 14px;color:#0056b3">2022 ICIS Nunamaker-Chen Best Impact Paper Award</span>
+<br><span style="font-size: 14px;color:#0056b3">2022 ICIS Nunamaker-Chen Best Impact Paper Award</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -94,7 +94,7 @@ As concerns about environmental and climate change rise, consumers increasingly 
 
 **Common Law Annotations: Investigating the Stability of Dialog System Output Annotations**  
 With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
-<br><span style="font-size: 14px;">Findings of the Association for Computational Linguistics: ACL 2023</span>
+<br><span style="font-size: 14px;"><em>Findings of the Association for Computational Linguistics: ACL 2023</em></span>
 
 
 **Rarity, Trader Heterogeneity and Pricing Power in an NFT Marketplace**  
