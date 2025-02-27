@@ -40,15 +40,15 @@ title: Research
 
 **How  Platform Transparency Shapes Provider Choices: Evidence from A Natural Experiment**  
 <u>Rubing Li</u>, Xiao Liu, Arun Sundararajan
-<br><span style="font-size: 14px;">(Work in progress)</span>
-<br><span style="font-size: 14px;">Conference Presentations: <em>WISE 2024</em></span>
+<br><span style="font-size: 16px;">(Work in progress)</span>
+<br><span style="font-size: 16px;">Conference Presentations: <em>WISE 2024</em></span>
 
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
 <u>Rubing Li</u>, Arun Sundararajan  [arXiv](https://arxiv.org/abs/2405.09023){: .btn} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827707){: .btn}
-<br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), <em>Information Systems Research</em></span>
-<br><span style="font-size: 14px;">Conference Presentations: <em>Marketing Science 2023, WISE 2023, IIOC 2024, INFORMS CIST 2024</em></span>
-<br><span style="font-size: 14px;color:#0056b3">2023 <em>ICIS</em> Best Paper Finalist </span>
+<br><span style="font-size: 16px;"> Revise and Resubmit (2nd round), <em>Information Systems Research</em></span>
+<br><span style="font-size: 16px;">Conference Presentations: <em>Marketing Science 2023, WISE 2023, IIOC 2024, INFORMS CIST 2024</em></span>
+<br><span style="font-size: 16px;color:#0056b3">2023 <em>ICIS</em> Best Paper Finalist </span>
 <span class="abstract-link" onclick="toggleAbstract('abstract1', this)">
     <span class="triangle">▼</span> Abstract
 </span>
