@@ -58,9 +58,9 @@ title: Research
 
 **Predicting Consumer In-Store Purchase through Real-Time Video Analytics: An Advanced Computer Vision and Deep Learning Approach**  
 <u>Rubing Li</u><sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}
-<br><span style="font-size: 14px;"> Revise and Resubmit (2nd round), <em>Information Systems Research</em></span>
-<br><span style="font-size: 14px;">Conference Presentations: <em>SCECR 2021, INFORMS CIST 2021, INFORMS Data Science Workshop 2022, ICIS 2022</em></span>
-<br><span style="font-size: 14px;color:#0056b3">2022 ICIS Nunamaker-Chen Best Impact Paper Award</span>
+<br><span style="font-size: 16px;"> Revise and Resubmit (2nd round), <em>Information Systems Research</em></span>
+<br><span style="font-size: 16px;">Conference Presentations: <em>SCECR 2021, INFORMS CIST 2021, INFORMS Data Science Workshop 2022, ICIS 2022</em></span>
+<br><span style="font-size: 16px;color:#0056b3">2022 ICIS Nunamaker-Chen Best Impact Paper Award</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -70,7 +70,7 @@ This study introduces a novel, theory-driven video analytics framework to predic
 
 **Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models**  
 <u>Rubing Li</u>, João Sedoc, Arun Sundararajan   [arXiv](https://arxiv.org/pdf/2502.12825){: .btn}  
-<span style="font-size: 14px;">Conference Presentations: <em>NYU AI Symposium 2024, Yale AI/ML 2024</em></span>
+<span style="font-size: 16px;">Conference Presentations: <em>NYU AI Symposium 2024, Yale AI/ML 2024</em></span>
 <span class="abstract-link" onclick="toggleAbstract('abstract4', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -82,7 +82,7 @@ When encountering increasingly frequent performance improvements or cost reducti
 
 **Visible Localized Climate Change Events Alter Sustainable Consumption Behaviors**  
 <u>Rubing Li</u>, Andy Ruben, Arun Sundararajan   
-<span style="font-size: 14px;">Conference Presentations: <em>SCECR 2024</em></span>
+<span style="font-size: 16px;">Conference Presentations: <em>SCECR 2024</em></span>
 <span class="abstract-link" onclick="toggleAbstract('abstract2', this)">
     <span class="triangle">▼</span> Abstract
 </span>
@@ -94,12 +94,12 @@ As concerns about environmental and climate change rise, consumers increasingly 
 
 **Common Law Annotations: Investigating the Stability of Dialog System Output Annotations**  
 With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclanthology.org/2023.findings-acl.780.pdf){: .btn}
-<br><span style="font-size: 14px;"><em>Findings of the Association for Computational Linguistics: ACL 2023</em></span>
+<br><span style="font-size: 16px;"><em>Findings of the Association for Computational Linguistics: ACL 2023</em></span>
 
 
 **Rarity, Trader Heterogeneity and Pricing Power in an NFT Marketplace**  
 <u>Rubing Li</u>, Arun Sundararajan   
-<span style="font-size: 14px;">Conference Presentations: <em>SCECR 2022, WISE 2022</em></span>
+<span style="font-size: 16px;">Conference Presentations: <em>SCECR 2022, WISE 2022</em></span>
 
 
 
