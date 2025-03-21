@@ -58,7 +58,7 @@ title: Research
 
 **Predicting Consumer In-Store Purchase through Real-Time Video Analytics: An Advanced Computer Vision and Deep Learning Approach**  
 <u>Rubing Li</u><sup>†</sup>, Wen Wang<sup>†</sup>, Anindya Ghose, Beibei Li, Kaiquan Xu [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513385){: .btn}
-<br><span style="font-size: 16px;"> Revise and Resubmit (2nd round), <em>Information Systems Research</em></span>
+<br><span style="font-size: 16px;"> Revise and Resubmit (3rd round), <em>Information Systems Research</em></span>
 <br><span style="font-size: 16px;">Conference Presentations: <em>SCECR 2021, INFORMS CIST 2021, INFORMS Data Science Workshop 2022, ICIS 2022</em></span>
 <br><span style="font-size: 16px;color:#0056b3">2022 ICIS Nunamaker-Chen Best Impact Paper Award</span>
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
