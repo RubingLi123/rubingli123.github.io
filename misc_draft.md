@@ -81,8 +81,8 @@ title: Misc
     <a href="/recommerce_visits/" class="doc-button">View Documentation</a>
   </div>
   <div class="recommerce-images">
-    <img src="/static/img/trove1.jpg" alt="Warehouse team photo" />
+    <img src="/static/img/trove.jpeg" alt="Warehouse team photo" />
     <img src="/static/img/trove2.jpeg" alt="Sorting station" />
-    <img src="/static/img/trove3.jpg" alt="Trove sign outside" />
+    <img src="/static/img/overview.JPG" alt="Trove sign outside" />
   </div>
 </div>
