@@ -109,7 +109,7 @@ title: Misc
         <a class="view-button" href="/recommerce_visits/">View Documentation</a>
       </div>
       <div class="image-half">
-        <img src="/static/img/overview.jpg" alt="Trove sign outside">
+        <img src="/static/img/overview.JPG" alt="Trove sign outside">
       </div>
     </div>
   </div>
