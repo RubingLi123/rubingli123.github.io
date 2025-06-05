@@ -1,3 +1,8 @@
+---
+layout: page
+title: Misc
+---
+
 <style>
 .curiosity-section {
   display: flex;
