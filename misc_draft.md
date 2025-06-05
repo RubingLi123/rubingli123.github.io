@@ -37,8 +37,7 @@ title: Misc
 /* Text content */
 .curiosity-text {
   color: #787878;
-  font-family: "Open Sans";
-  font-size: 20px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -46,8 +45,7 @@ title: Misc
 
 .curiosity-text h2 {
   color: #000;
-  font-family: "Open Sans";
-  font-size: 32px;
+  font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
