@@ -8,13 +8,11 @@ title: Misc
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  background-color: #f9f9f9;
   padding: 30px;
   border-radius: 16px;
-  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.06);
   gap: 32px;
   flex-wrap: wrap;
-  max-width: 1000px;
+  max-width: 90%;
   margin: 40px auto;
 }
 
@@ -65,7 +63,7 @@ title: Misc
 
 .recommerce-images img {
   width: 100%;
-  max-width: 200px;
+  max-width: 400px;
   border-radius: 12px;
   object-fit: cover;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
