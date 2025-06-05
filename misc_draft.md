@@ -6,32 +6,27 @@ title: Misc
 <style>
 .recommerce-section {
   display: flex;
-  flex-direction: row;
+  padding: 70px 140px;
   align-items: flex-start;
-  padding: 30px;
-  border-radius: 16px;
-  gap: 32px;
-  flex-wrap: wrap;
-  max-width: 90%;
-  margin: 40px auto;
-}
-
-.recommerce-text {
-  flex: 1 1 300px;
-  min-width: 300px;
+  gap: 20px;
+  align-self: stretch;
 }
 
 .recommerce-text h2 {
-  font-size: 1.8em;
-  font-weight: bold;
-  margin-bottom: 12px;
+  color: #000;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 .recommerce-text p {
-  font-size: 1em;
-  line-height: 1.6em;
-  color: #333;
-  margin-bottom: 16px;
+  color: #787878;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
 .recommerce-text strong {
