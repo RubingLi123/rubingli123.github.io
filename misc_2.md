@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:  
 ---
 
 <style>
@@ -230,6 +230,15 @@ h2 {
   object-fit: cover;
 }
 
+.music-img {
+  width: 100%;
+  height: 300px;
+  border-radius: 12px;
+  background: url("static/img/music.jpg") lightgray 0px 0px / 100% 199.843% no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 </style>
 
 <section class="hero">
@@ -292,4 +301,12 @@ h2 {
       <img src="static/img/bridge.png" alt="Queensboro Bridge" class="bridge-img" />
     </div>
   </div>
+</section>
+
+<section class="music">
+  <h2>Precision in Harmony</h2>
+  <p class="body_text">
+    As a <strong>classically trained violinist</strong>, I see every piece as a <strong>layered narrative</strong>, rich in structure and emotion. A highlight was witnessing <strong>Yuja Wang’s Rachmaninoff marathon</strong>—a stunning performance of all five concertos in one night, echoing the <strong>discipline and depth</strong> I bring to my work.
+  </p>
+  <div class="music-img"></div>
 </section>
