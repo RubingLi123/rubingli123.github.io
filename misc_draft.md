@@ -18,10 +18,12 @@ title: Misc
   max-width: 30%;
 }
 
-.curiosity-left img {
-  width: 100%;
+.cropped-image {
   border-radius: 16px;
-  object-fit: cover;
+  background: url("/static/img/trove.jpeg") lightgray -108.991px 0px / 175.685% 100% no-repeat;
+  flex: 1 0 0;
+  align-self: stretch;
+  aspect-ratio: 3 / 4;
 }
 
 /* Right side - 2/3 width */
@@ -91,10 +93,8 @@ title: Misc
 
 <div class="curiosity-section">
   <!-- Left Side Image -->
-  <div class="curiosity-left">
-    <img src="/static/img/trove.jpeg" alt="Warehouse team photo">
-  </div>
-
+  <div class="cropped-image"></div>
+  
   <!-- Right Side: Text + Images -->
   <div class="curiosity-right">
     <div class="curiosity-text">
