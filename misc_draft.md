@@ -6,8 +6,6 @@ title: Misc
 <style>
 .curiosity-section {
   display: flex;
-  padding: 70px 140px;
-  width: 100%;
   align-items: flex-start;
   gap: 20px;
   align-self: stretch;
