@@ -7,6 +7,7 @@ title: Misc
 .curiosity-section {
   display: flex;
   padding: 70px 140px;
+  width: 100%;
   align-items: flex-start;
   gap: 20px;
   align-self: stretch;
@@ -37,16 +38,21 @@ title: Misc
 
 /* Text content */
 .curiosity-text {
-  font-size: 1em;
-  line-height: 1.6em;
-  color: #333;
+  color: #787878;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
 .curiosity-text h2 {
-  margin-top: 0;
-  font-size: 1.8em;
-  font-weight: bold;
-  margin-bottom: 12px;
+  color: #000;
+  font-family: "Open Sans";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 /* Image row */
@@ -57,9 +63,10 @@ title: Misc
 }
 
 .curiosity-images img {
-  width: 100%;
-  border-radius: 12px;
-  object-fit: cover;
+  flex: 1 0 0;
+  align-self: stretch;
+  border-radius: 16px;
+  background: url(<path-to-image>) lightgray -108.991px 0px / 175.685% 100% no-repeat;
 }
 
 .curiosity-images .image-half {
