@@ -19,9 +19,10 @@ body {
   flex-wrap: wrap;
 }
 
-curiosity-section .cropped-image {
-  flex: 1;
-  max-width: 400px;
+
+.cropped-image {
+  flex: 1 1 30%;
+  max-width: 30%;
   height: 100%;
   border-radius: 16px;
   background-image: url("/static/img/trove.jpeg");
