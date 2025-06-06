@@ -108,7 +108,7 @@ h2 {
 }
 
 .hero-text h1 {
-  font-size: 32px;
+  font-size: 28px;
   color: black;
   font-weight: 700;
   line-height: 1.4;
