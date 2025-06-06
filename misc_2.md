@@ -11,7 +11,7 @@ body {
 
 .curiosity-section {
   display: flex;
-  align-items: flex-start;
+  align-items: stretch;
   gap: 10px;
   margin-bottom: 70px;
   margin-top: 20px;
