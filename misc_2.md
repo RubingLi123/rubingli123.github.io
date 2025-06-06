@@ -30,7 +30,7 @@ body {
   background-repeat: no-repeat;
   background-color: lightgray;
   background-size: cover;
-  background-position-x: 90px;
+  background-position-x: -90px;
   background-position-y: center;
 }
   
