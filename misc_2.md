@@ -81,7 +81,7 @@ h2 {
 
 .image-half img {
   width: 100%;
-  height: 100%;
+  height: 200px;
   border-radius: 12px;
   object-fit: cover;
 }
