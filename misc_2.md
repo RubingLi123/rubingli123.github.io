@@ -19,23 +19,20 @@ body {
   flex-wrap: wrap;
 }
 
-/* Left side - 1/3 width */
 .curiosity-left {
   flex: 1 1 30%;
   max-width: 30%;
+  display: flex;
 }
 
 .cropped-image {
+  flex: 1;
   border-radius: 16px;
   background-image: url("/static/img/trove.jpeg");
   background-repeat: no-repeat;
   background-color: lightgray;
   background-size: cover;
   background-position: center;
-  aspect-ratio: 3 / 4;
-  width: 100%;
-  max-width: 400px;
-  flex: 1 0 0;
 }
 
 /* Right side - 2/3 width */
