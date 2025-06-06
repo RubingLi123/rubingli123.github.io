@@ -23,14 +23,15 @@ body {
 .cropped-image {
   flex: 1 1 30%;
   width: 100%;
-  height: 100%;
+  height: 400px;
   max-width: 400px;
   border-radius: 16px;
   background-image: url("/static/img/trove.jpg");
   background-repeat: no-repeat;
   background-color: lightgray;
   background-size: cover;
-  background-position: center;
+  background-position-x: 90px;
+  background-position-y: center;
 }
   
 /* Right side - 2/3 width */
