@@ -22,6 +22,7 @@ body {
 .cropped-image {
   flex: 1;
   max-width: 400px;
+  height: 100%;
   border-radius: 16px;
   background-image: url("/static/img/trove.jpeg");
   background-repeat: no-repeat;
