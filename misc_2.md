@@ -19,7 +19,7 @@ body {
   flex-wrap: wrap;
 }
 
-.cropped-image {
+curiosity-section .cropped-image {
   flex: 1;
   max-width: 400px;
   height: 100%;
