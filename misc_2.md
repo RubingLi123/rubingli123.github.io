@@ -25,7 +25,7 @@ body {
   max-width: 30%;
   height: 100%;
   border-radius: 16px;
-  background-image: url("static/img/trove.jpeg");
+  background-image: url("/static/img/trove.jpg");
   background-repeat: no-repeat;
   background-color: lightgray;
   background-size: cover;
