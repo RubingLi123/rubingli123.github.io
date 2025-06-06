@@ -21,6 +21,7 @@ body {
 
 
 .cropped-image {
+  flex: 1 1 30%;
   aspect-ratio: 3 / 4;
   width: 100%;
   max-width: 400px;
