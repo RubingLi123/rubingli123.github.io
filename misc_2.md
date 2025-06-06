@@ -178,7 +178,6 @@ h2 {
 .run {
   background: #F5F9FF;
   padding: 40px 40px;
-  font-family: sans-serif;
   color: #111;
   max-width: full;
 }
