@@ -86,13 +86,13 @@ h2 {
 
 .view-button {
   display: flex;
-  padding: 8px 12px;
+  padding: 4px 6px;
   justify-content: center;
   align-items: center;
   gap: 10px;
   position: absolute;
-  left: 14px;
-  bottom: 20px;
+  left: 10px;
+  bottom: 12px;
   border-radius: 100px;
   background: #FFF;
   font-size: 0.95em;
