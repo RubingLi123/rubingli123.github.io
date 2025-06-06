@@ -27,7 +27,7 @@ body {
 
 .cropped-image {
   border-radius: 16px;
-  background-image: url("static/img/trove.jpeg");
+  background-image: url("/static/img/trove.jpeg");
   background-repeat: no-repeat;
   background-color: lightgray;
   background-size: cover;
@@ -203,7 +203,7 @@ h2 {
   width: 508px;
   height: 300px;
   border-radius: 16px;
-  background: url("static/img/marathon.PNG") lightgray 0px 0px / 100% 199.843% no-repeat;
+  background: url("/static/img/marathon.PNG") lightgray 0px 0px / 100% 199.843% no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -234,7 +234,7 @@ h2 {
   width: 100%;
   height: 300px;
   border-radius: 12px;
-  background: url("static/img/music.jpg") lightgray 0px 0px / 100% 199.843% no-repeat;
+  background: url("/static/img/music.jpg") lightgray 0px 0px / 100% 199.843% no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -250,11 +250,11 @@ h2 {
   </div>
 
   <!-- Decorative Icons -->
-  <img src="static/icon/pencil.png" class="decor icon-pencil" alt="Pencil icon" />
-  <img src="static/icon/music1.png" class="decor icon-music1" alt="Music icon" />
-  <img src="static/icon/mountain.png" class="decor icon-mountain" alt="Mountain icon" />
-  <img src="static/icon/flower.png" class="decor icon-flower" alt="Flower icon" />
-  <img src="static/icon/music2.png" class="decor icon-music2" alt="Music icon" />
+  <img src="/static/icon/pencil.png" class="decor icon-pencil" alt="Pencil icon" />
+  <img src="/static/icon/music1.png" class="decor icon-music1" alt="Music icon" />
+  <img src="/static/icon/mountain.png" class="decor icon-mountain" alt="Mountain icon" />
+  <img src="/static/icon/flower.png" class="decor icon-flower" alt="Flower icon" />
+  <img src="/static/icon/music2.png" class="decor icon-music2" alt="Music icon" />
 </section>
 
 <div class="curiosity-section">
@@ -271,11 +271,11 @@ h2 {
     </div>
     <div class="curiosity-images">
       <div class="image-half">
-        <img src="static/img/trove2.jpeg" alt="Sorting station">
+        <img src="/static/img/trove2.jpeg" alt="Sorting station">
         <a class="view-button" href="/recommerce_visits/">View Documentation</a>
       </div>
       <div class="image-half">
-        <img src="static/img/overview.JPG" alt="Trove sign outside">
+        <img src="/static/img/overview.JPG" alt="Trove sign outside">
       </div>
     </div>
   </div>
@@ -298,7 +298,7 @@ h2 {
           At mile 19, the Queensboro Bridge’s <strong>relentless 5-mile incline</strong> pushed me to my limits— a defining moment in building both mental and physical endurance.
         </p>
       </div>
-      <img src="static/img/bridge.png" alt="Queensboro Bridge" class="bridge-img" />
+      <img src="/static/img/bridge.png" alt="Queensboro Bridge" class="bridge-img" />
     </div>
   </div>
 </section>
