@@ -204,7 +204,7 @@ h2 {
 
 .resilience-image {
   width: 508px;
-  height: 324px;
+  height: 352px;
   border-radius: 16px;
   background: url("/static/img/marathon.PNG") lightgray 0px 0px / 100% 199.843% no-repeat;
   background-size: cover;
@@ -219,7 +219,6 @@ h2 {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 20px;
 }
 
 .resilience-card h3 {
