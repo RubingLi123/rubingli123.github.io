@@ -53,6 +53,14 @@ body {
   line-height: normal;
 }
 
+.body_text_white {
+  color: white;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
 h2 {
   color: #000;
   font-size: 18px;
@@ -290,7 +298,7 @@ h2 {
     <div class="resilience-card">
       <div class="card-text">
         <h3>Conquering the Queensboro Bridge</h3>
-        <p class="body_text">
+        <p class="body_text_white">
           At mile 19, the Queensboro Bridge’s <strong>relentless 5-mile incline</strong> pushed me to my limits— a defining moment in building both mental and physical endurance.
         </p>
       </div>
