@@ -248,8 +248,7 @@ h2 {
 <section class="hero">
   <div class="hero-text">
     <h1>
-      Driven by rhythm, resilience, and curiosity<br />
-      —in the field, on the run, and through every note.
+      Thought in tempo, form in focus, research in the real world.
     </h1>
   </div>
 
@@ -268,9 +267,9 @@ h2 {
   <!-- Right Side: Text + Images -->
   <div class="curiosity-right">
     <div>
-      <h2>Curiosity on the Ground</h2>
+      <h2>Behind the Scenes of Recommerce</h2>
       <p class="body_text">
-        During a recent visit to one of <strong>San Francisco’s largest recommerce warehouses</strong>, I witnessed the complex systems behind recycling pre-owned goods—a hands-on reminder of how <strong>design, logistics, and sustainability</strong> intersect in the real world.
+          I recently visited one of the largest recommerce warehouses in San Francisco and was amazed to see the intricate processes behind recycling pre-owned items. Click <a href="/recommerce_visits/">here</a> to see more photos behind the scene!
       </p>
     </div>
     <div class="curiosity-images">
@@ -286,10 +285,9 @@ h2 {
 </div>
 
 <section class="run">
-  <h2>Resilience in Every Stride</h2>
+  <h2>Run. Think. Repeat.</h2>
   <p class="body_text">
-    I ran my first <strong>New York City Marathon</strong> in November 2023, following a
-    <strong>structured training program</strong> that sparked my passion for distance running and goal-setting.
+    I completed my first New York City full marathon in November 2023. I followed a popular marathon training <a href="https://www.halhigdon.com/training/marathon-training/">program</a>, which has since inspired me to pursue more serious running.
   </p>
 
   <div class="resilience-flex">
@@ -299,7 +297,7 @@ h2 {
       <div class="card-text">
         <h3>Conquering the Queensboro Bridge</h3>
         <p class="body_text_white">
-          At mile 19, the Queensboro Bridge’s <strong>relentless 5-mile incline</strong> pushed me to my limits— a defining moment in building both mental and physical endurance.
+          The most challenging section of the route was the Queensboro Bridge at mile 19, with its grueling 5-mile uphill climb—a true test for a casual runner like me. 
         </p>
       </div>
       <img src="/static/img/bridge.png" alt="Queensboro Bridge" class="bridge-img" />
@@ -308,9 +306,9 @@ h2 {
 </section>
 
 <section class="music">
-  <h2>Precision in Harmony</h2>
+  <h2>A Symphony in Progress</h2>
   <p class="body_text">
-    As a <strong>classically trained violinist</strong>, I see every piece as a <strong>layered narrative</strong>, rich in structure and emotion. A highlight was witnessing <strong>Yuja Wang’s Rachmaninoff marathon</strong>—a stunning performance of all five concertos in one night, echoing the <strong>discipline and depth</strong> I bring to my work.
+      I am a fan of classical music and a classically trained violinist, appreciating each piece as a delicately crafted novel with a rich, layered structure. Last year, I had the unforgettable experience of attending a Rachmaninoff marathon, where Yuja Wang performed all five piano concertos in a single program!
   </p>
   <div class="music-img"></div>
 </section>
