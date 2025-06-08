@@ -216,6 +216,7 @@ h2 {
 
 .resilience-card h3 {
   margin-top: 0;
+  font-size: 18px;
   margin-bottom: 8px;
 }
 
@@ -289,7 +290,7 @@ h2 {
     <div class="resilience-card">
       <div class="card-text">
         <h3>Conquering the Queensboro Bridge</h3>
-        <p>
+        <p class="body_text">
           At mile 19, the Queensboro Bridge’s <strong>relentless 5-mile incline</strong> pushed me to my limits— a defining moment in building both mental and physical endurance.
         </p>
       </div>
