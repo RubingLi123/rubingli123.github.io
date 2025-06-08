@@ -204,7 +204,7 @@ h2 {
 
 .resilience-image {
   width: 508px;
-  height: 424px;
+  height: 324px;
   border-radius: 16px;
   background: url("/static/img/marathon.PNG") lightgray 0px 0px / 100% 199.843% no-repeat;
   background-size: cover;
