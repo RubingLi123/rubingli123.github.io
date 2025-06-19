@@ -38,7 +38,7 @@ title: Research
 </style>
 
 
-**How  Platform Transparency Shapes Provider Choices: Evidence from A Natural Experiment**  
+**How  Platform Transparency Shapes Provider Choices: Evidence from A Natural Experiment on Lyft**  
 <u>Rubing Li</u>, Xiao Liu, Arun Sundararajan
 <br><span style="font-size: 16px;">(Work in progress)</span>
 <br><span style="font-size: 16px;">Conference Presentations: <em>WISE 2024, Marketing Science 2025, Platform Strategy Research Symposium 2025 (Scheduled)</em></span>
