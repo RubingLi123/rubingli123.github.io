@@ -70,7 +70,7 @@ This study introduces a novel, theory-driven video analytics framework to predic
 
 **Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models**  
 <u>Rubing Li</u>, João Sedoc, Arun Sundararajan   [arXiv](https://arxiv.org/pdf/2502.12825){: .btn}  
-<span style="font-size: 16px;">Conference Presentations: <em>NYU AI Symposium 2024, Yale AI/ML 2024</em></span>
+<span style="font-size: 16px;">Conference Presentations: <em>NYU AI Symposium 2024, Yale AI/ML 2024, Wharton AI and the Future of Work 2025</em></span>
 <span class="abstract-link" onclick="toggleAbstract('abstract4', this)">
     <span class="triangle">▼</span> Abstract
 </span>
