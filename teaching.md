@@ -48,6 +48,9 @@ Prior teaching experiences:
    "This class was really great, I enjoyed the material and classwork." 
    "instructor is very helpful in connecting students to outside resources, very flexible on course materials, very nice person and the course was articulated very well." 
    "nice professor, quick email replies, good flexible course materials, very nice experience."
+   "Truly enjoyed taking this course and Rubing was amazing at making sure that we understood everything. The flexibility the course offered especially within the course project was great for being able to add our own touch to the course."
+   "I thoroughly enjoyed taking the class and would definitely recommend it to those who are interested in the topic. Professor Rubing Li was amazing at explaining very complex topics, and I learned so much in a short amount of time, as the class was an accelerated summer course. I hope to continue learning more about the topics we discussed and continue to progress in my academics in topics regarding AI."
+   "Quite Encouraging and helpful, patient with the students."
 </div>
 - Teaching Fellow, Network Analytics (MBA), 2023, 2024, New York University 
 - Teaching Fellow, Platform Strategy in Fintech (MBA), 2023, 2024, New York University 
