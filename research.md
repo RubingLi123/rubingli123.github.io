@@ -103,6 +103,13 @@ With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclantholo
 
 
 
+<!-- Research Support Section -->
+<div style="margin-top: 30px; padding: 15px; background-color: #f9f9f9; border-left: 4px solid #007BFF; border-radius: 5px; font-size: 0.9em;">
+  <strong>Research Support</strong><br>
+  My research has been supported by the <em>2025 NET Institute Summer Grant</em>, <em>2025 Microsoft AI and Economic Institute Grant</em>, <em>2024 Fubon Center for Technology, Business and Innovation</em>, and the <em>PhD Fellowship from the Stern School of Business at New York University</em>.
+</div>
+
+
 
 <br><span style="font-size: 0.75em;">(<sup>†</sup> Indicates shared first authorship)</span>
 
