@@ -105,7 +105,10 @@ With Seunggun Lee, João Sedoc and nine other coauthors [ACL](https://aclantholo
 
 <hr style="height:1px; border:none; background-color:#ccc; margin:30px 0 10px 0;">
 
-<h3 style="margin-bottom: 5px;">My research has been supported by</h3>
+<div style="background-color: #f9f9f9; border-left: 4px solid #007BFF; padding: 8px 12px; font-weight: bold; font-size: 0.95em; margin-bottom: 8px;">
+  My research has been supported by
+</div>
+
 <ul style="margin-top: 5px; padding-left: 20px; font-size: 0.9em; line-height: 1.5em;">
   <li>2025 NET Institute Summer Grant</li>
   <li>2025 Microsoft AI and Economic Institute Grant</li>
