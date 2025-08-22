@@ -10,7 +10,7 @@ use-site-title: true
 /* Container styling to align photo and text side by side */
 .profile-container {
     display: flex;
-    align-items: stretch;
+    align-items: flex-end;
     gap: 20px;
     margin-bottom: 15px;
     font-size: 15px;
@@ -19,10 +19,9 @@ use-site-title: true
 /* Profile photo styling */
 .profile-photo {
     max-width: 230px; /* Adjust as needed */
-    height: auto; /* Ensure it scales correctly */
+    height: 80%; /* Ensure it scales correctly */
     border-radius: 8px;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
-    object-fit: cover;
     margin-top: -50px;
 }
 
