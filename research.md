@@ -43,7 +43,7 @@ title: Research
 <br><span style="font-size: 16px;">(Working Paper)</span><span style="font-size: 16px;">
   <a href="https://github.com/RubingLi123/rubingli123.github.io/blob/main/papers/lyft_transparency.pdf" target="_blank">[PDF]</a>
 </span>
-<br><span style="font-size: 16px;">Conference Presentations: <em>WISE 2024, Marketing Science 2025, Platform Strategy Research Symposium 2025, CIST 2025 (scheduled) </em></span>
+<br><span style="font-size: 16px;">Conference Presentations: <em>WISE 2024, Marketing Science 2025, Platform Strategy Research Symposium 2025, CIST 2025 </em></span>
 
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
