@@ -39,11 +39,15 @@ title: Research
 
 
 **Platform Design, Earnings Transparency and Minimum Wage Policies: Evidence from A Natural Experiment on Lyft**  
-<u>Rubing Li</u>, Xiao Liu, Arun Sundararajan
-<br><span style="font-size: 16px;">(Working Paper)</span><span style="font-size: 16px;">
-  <a href="https://github.com/RubingLi123/rubingli123.github.io/blob/main/papers/lyft_transparency.pdf" target="_blank">[PDF]</a>
-</span>
+<u>Rubing Li</u>, Xiao Liu, Arun Sundararajan [arXiv](https://arxiv.org/abs/2602.08955){: .btn} 
+  [arXiv](https://arxiv.org/abs/2602.08955)</a>
 <br><span style="font-size: 16px;">Conference Presentations: <em>WISE 2024, Marketing Science 2025, Platform Strategy Research Symposium 2025, CIST 2025 </em></span>
+<span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
+    <span class="triangle">▼</span> Abstract
+</span>
+<div id="abstract3" class="abstract-content">
+We study the effects of a significant design and policy change at a major ridesharing platform that altered both provider earnings and platform transparency, examining how it altered outcomes for drivers, riders and the parent platform, and providing managerial insights about how to balance competing stakeholder interests while avoiding unintended consequences. In February 2024, Lyft introduced a policy guaranteeing drivers a minimum fraction of rider payments while also increasing per-ride earnings transparency. The rollout of this policy was staggered, first introduced in “major markets” that were more urban, providing a natural experiment to assess how platform transparency and earnings guarantees affect ridesharing availability, driver engagement and rider satisfaction. Using trip-level data from over 47 million rides in a major urban market and its neighboring suburban markets across six months, we applied dynamic staggered differencein-differences models along with a geographic border strategy to measure the causal effects of these platform design changes on supply- and demand-side outcomes, ride production and platform outcomes. We show that the design change led to substantial changes in driver engagement, with separate effects from the guarantee and the transparency. Drivers increased their working hours and utilization, leading to more completed trips and higher per-hour and per-trip earnings. These effects were strongest for drivers with lower pre-policy earnings and greater income uncertainty. We unpack the economic mechanism by which these changes led to a positive spillover on demand. We also provide some evidence that points to platform transparency potentially leading to unintended strategic driver behavior. In ongoing work, we outline a counterfactual simulation framework that models ride production as a function of driver supply hours and rider intents, examining how small changes in driver choices might have amplified the positive effects of the intervention even further, and develop a self-supervised machine learning model that leverages driver trajectory embeddings to predict multihoming behavior and examine whether supply increases came from both the expansion of driver activity as well as substitution from competing platforms. Our study shows how platform-led interventions present an intriguing alternative to government-led minimum pay regulation, and provide new strategic insights into managing platform change.
+</div>
 
 
 **The Rise of Recommerce: Ownership and Sustainability with Overlapping Generations**  
