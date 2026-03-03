@@ -40,7 +40,7 @@ title: Research
 
 **Platform Design, Earnings Transparency and Minimum Wage Policies: Evidence from A Natural Experiment on Lyft**  
 <u>Rubing Li</u>, Xiao Liu, Arun Sundararajan [arXiv](https://arxiv.org/abs/2602.08955){: .btn} 
-<br><span style="font-size: 16px;">Conference Presentations: <em>WISE 2024, Marketing Science 2025, Platform Strategy Research Symposium 2025, CIST 2025 </em></span>
+<br><span style="font-size: 16px;">Conference Presentations: <em>WISE 2024, Marketing Science 2025, Platform Strategy Research Symposium 2025, CIST 2025, INFORMS 2025 </em></span>
 <span class="abstract-link" onclick="toggleAbstract('abstract3', this)">
     <span class="triangle">▼</span> Abstract
 </span>
