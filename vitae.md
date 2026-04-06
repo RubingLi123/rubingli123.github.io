@@ -6,4 +6,4 @@ permalink: /vitae/
 
 You can view my full CV using the button below:
 
-<a href="https://www.dropbox.com/scl/fi/6q51pyjarkcwz0oe6jv42/RubingLi_CV_DS.pdf?rlkey=pj7vsati2naukn1b7q3m6hlu2&dl=0" class="btn" target="_blank">CV</a>
+<a href="https://www.dropbox.com/scl/fi/kuiw0528gc2o6irnyj5m7/RubingLi_CV.pdf?rlkey=76dp5r3jiw55pi9uo25xccjji&dl=0" class="btn" target="_blank">CV</a>
