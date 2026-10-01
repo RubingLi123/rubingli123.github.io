@@ -313,4 +313,4 @@ h2 {
 </section>
 
    
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=O8suamHxmsJ0Q9xPWGTZ-axPrNLubvMXcLlaLEJQwzk&cl=ffffff&w=a"></script>
+<a href='https://mapmyvisitors.com/web/1bwtj'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=70&t=n&d=O8suamHxmsJ0Q9xPWGTZ-axPrNLubvMXcLlaLEJQwzk&co=ffffff&ct=808080' style='width:40px;height:auto;opacity:0.6;' alt='Visitor map'/></a>
